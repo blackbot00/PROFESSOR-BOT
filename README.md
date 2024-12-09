@@ -79,6 +79,13 @@
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blackbot00/PROFESSOR-BOT)
+
+<a href="https://render.com/deploy?repo=https://github.com/blackbot00/PROFESSOR-BOT">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
+https://render.com/deploy?repo=https://github.com/blackbot00/PROFESSOR-BOT
+
 </details>
 
 <details>
